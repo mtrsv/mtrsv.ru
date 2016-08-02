@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Verdana,  sans-serif; /* Семейство шрифтов */
+  font-size: 11pt; /* Размер основного шрифта в пунктах  */
+  
+}
+.centerdiv{
+	text-align: center;
+	padding: 30px;
+}
+.header{
+	font-size: 16pt;
+	background-color: rgb(230,230,230);
+	padding: 15px;
+}
+.footer{
+	text-align: center;
+	font-size: 10pt;
+	padding: 15px;
+}
+.gold{
+	color: rgb(0,100,0);
+}
